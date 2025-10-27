@@ -6,5 +6,4 @@
 
 ## Usage
 
-1. run `npm run savage`
-2. Navigate to `localhost:8888`
+1. Navigate to `localhost:8888`

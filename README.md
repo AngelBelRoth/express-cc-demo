@@ -1,5 +1,5 @@
 # express-cc-demo
-A demo application built with Express.js to illustrate [insert a short purpose here: e.g., credit-card processing workflow / checkout form / client-server communication]
+A demo application built with Express.js to illustrate a sign up page.
 
 ## Project Description
 This repository contains a simple web application built using Express.js (Node.js) that demonstrates how a server-side component and front-end can collaborate in a checkout or card-entry workflow. It uses EJS templates for view rendering and serves static assets from the public/ folder.
